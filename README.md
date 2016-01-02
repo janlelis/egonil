@@ -12,9 +12,9 @@ end
 ## Further Information
 
 - [The Hopelessly Egocentric Blog Post](https://github.com/raganwald-deprecated/homoiconic/blob/master/2009-02-02/hopeless_egocentricity.md)
-- [The 25 Bytes of Ruby Joy!](http://ruby.janlelis.de/26-the-28-bytes-of-ruby-joy
-- ["Safe navigation operator"](https://bugs.ruby-lang.org/issues/11537)
-- [null_question](https://github.com/janlelis/null_question) + [exists](https://github.com/janlelis/exists)/[null_plus](https://github.com/janlelis/null_plus)
+- [The 25 Bytes of Ruby Joy!](http://ruby.janlelis.de/26-the-28-bytes-of-ruby-joy)
+- [Safe navigation operator](https://bugs.ruby-lang.org/issues/11537)
+- Null objects with [null_question](https://github.com/janlelis/null_question) and [exists](https://github.com/janlelis/exists) or [null_plus](https://github.com/janlelis/null_plus)
 
 
 ## Setup
